@@ -3,4 +3,4 @@ An innovative Geographical Information System designed specifically with the out
 
 NOTE: The source code cannot be provided due to the University of Toronto's academic integrity policies.
 
-see the ppt for key features and algorithms used in our GIS.
+see the pdf for key features and algorithms used in our GIS.
