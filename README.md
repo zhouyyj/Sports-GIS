@@ -1,4 +1,4 @@
-# Sports-GIS
+# Exercise Cartographic Explorer (ECE)
 <img width="533" alt="image" src="https://github.com/user-attachments/assets/827fba20-8260-4606-907f-f05a9853c8d9">
 
 An innovative Geographical Information System designed specifically with the outdoor sports enthusiast. 
