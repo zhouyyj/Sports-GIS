@@ -9,3 +9,5 @@ Our goal is to revolutionize how outdoor sports activities are planned and enjoy
 NOTE: The source code cannot be provided due to the University of Toronto's academic integrity policies.
 
 see the pdf for key features and algorithms used in our GIS.
+
+see https://github.com/maendrc/sport-GIS-code-.git for detailed code (private link due to copyright) 
